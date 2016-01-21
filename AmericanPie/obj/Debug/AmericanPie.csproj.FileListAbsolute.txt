@@ -1,0 +1,6 @@
+D:\TELERIK\TaskTraining\AmericanPie\bin\Debug\AmericanPie.exe.config
+D:\TELERIK\TaskTraining\AmericanPie\bin\Debug\AmericanPie.exe
+D:\TELERIK\TaskTraining\AmericanPie\bin\Debug\AmericanPie.pdb
+D:\TELERIK\TaskTraining\AmericanPie\obj\Debug\AmericanPie.csprojResolveAssemblyReference.cache
+D:\TELERIK\TaskTraining\AmericanPie\obj\Debug\AmericanPie.exe
+D:\TELERIK\TaskTraining\AmericanPie\obj\Debug\AmericanPie.pdb

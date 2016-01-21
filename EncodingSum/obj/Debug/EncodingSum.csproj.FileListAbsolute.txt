@@ -1,0 +1,6 @@
+D:\TELERIK\TaskTraining\EncodingSum\bin\Debug\EncodingSum.exe.config
+D:\TELERIK\TaskTraining\EncodingSum\bin\Debug\EncodingSum.exe
+D:\TELERIK\TaskTraining\EncodingSum\bin\Debug\EncodingSum.pdb
+D:\TELERIK\TaskTraining\EncodingSum\obj\Debug\EncodingSum.csprojResolveAssemblyReference.cache
+D:\TELERIK\TaskTraining\EncodingSum\obj\Debug\EncodingSum.exe
+D:\TELERIK\TaskTraining\EncodingSum\obj\Debug\EncodingSum.pdb

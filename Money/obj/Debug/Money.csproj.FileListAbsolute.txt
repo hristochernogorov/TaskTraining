@@ -1,0 +1,6 @@
+D:\TELERIK\TaskTraining\Money\bin\Debug\Money.exe.config
+D:\TELERIK\TaskTraining\Money\bin\Debug\Money.exe
+D:\TELERIK\TaskTraining\Money\bin\Debug\Money.pdb
+D:\TELERIK\TaskTraining\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+D:\TELERIK\TaskTraining\Money\obj\Debug\Money.exe
+D:\TELERIK\TaskTraining\Money\obj\Debug\Money.pdb

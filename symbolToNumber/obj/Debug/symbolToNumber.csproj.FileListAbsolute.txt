@@ -1,0 +1,6 @@
+D:\TELERIK\TaskTraining\symbolToNumber\bin\Debug\symbolToNumber.exe.config
+D:\TELERIK\TaskTraining\symbolToNumber\bin\Debug\symbolToNumber.exe
+D:\TELERIK\TaskTraining\symbolToNumber\bin\Debug\symbolToNumber.pdb
+D:\TELERIK\TaskTraining\symbolToNumber\obj\Debug\symbolToNumber.csprojResolveAssemblyReference.cache
+D:\TELERIK\TaskTraining\symbolToNumber\obj\Debug\symbolToNumber.exe
+D:\TELERIK\TaskTraining\symbolToNumber\obj\Debug\symbolToNumber.pdb

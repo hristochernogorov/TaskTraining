@@ -1,0 +1,6 @@
+D:\TELERIK\TaskTraining\TextToNumber\bin\Debug\TextToNumber.exe.config
+D:\TELERIK\TaskTraining\TextToNumber\bin\Debug\TextToNumber.exe
+D:\TELERIK\TaskTraining\TextToNumber\bin\Debug\TextToNumber.pdb
+D:\TELERIK\TaskTraining\TextToNumber\obj\Debug\TextToNumber.csprojResolveAssemblyReference.cache
+D:\TELERIK\TaskTraining\TextToNumber\obj\Debug\TextToNumber.exe
+D:\TELERIK\TaskTraining\TextToNumber\obj\Debug\TextToNumber.pdb
