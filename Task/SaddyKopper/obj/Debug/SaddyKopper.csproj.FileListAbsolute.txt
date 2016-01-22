@@ -4,3 +4,6 @@ D:\TELERIK\TaskTraining\SaddyKopper\bin\Debug\SaddyKopper.pdb
 D:\TELERIK\TaskTraining\SaddyKopper\obj\Debug\SaddyKopper.csprojResolveAssemblyReference.cache
 D:\TELERIK\TaskTraining\SaddyKopper\obj\Debug\SaddyKopper.exe
 D:\TELERIK\TaskTraining\SaddyKopper\obj\Debug\SaddyKopper.pdb
+D:\TELERIK\TaskTraining\Task\SaddyKopper\bin\Debug\SaddyKopper.exe.config
+D:\TELERIK\TaskTraining\Task\SaddyKopper\obj\Debug\SaddyKopper.exe
+D:\TELERIK\TaskTraining\Task\SaddyKopper\obj\Debug\SaddyKopper.pdb
