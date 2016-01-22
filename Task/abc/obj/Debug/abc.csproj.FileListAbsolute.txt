@@ -1,0 +1,6 @@
+D:\TELERIK\TaskTraining\abc\bin\Debug\abc.exe.config
+D:\TELERIK\TaskTraining\abc\bin\Debug\abc.exe
+D:\TELERIK\TaskTraining\abc\bin\Debug\abc.pdb
+D:\TELERIK\TaskTraining\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+D:\TELERIK\TaskTraining\abc\obj\Debug\abc.exe
+D:\TELERIK\TaskTraining\abc\obj\Debug\abc.pdb

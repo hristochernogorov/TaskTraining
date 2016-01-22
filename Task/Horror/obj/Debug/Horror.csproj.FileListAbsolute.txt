@@ -1,0 +1,6 @@
+D:\TELERIK\TaskTraining\Horror\bin\Debug\Horror.exe.config
+D:\TELERIK\TaskTraining\Horror\bin\Debug\Horror.exe
+D:\TELERIK\TaskTraining\Horror\bin\Debug\Horror.pdb
+D:\TELERIK\TaskTraining\Horror\obj\Debug\Horror.csprojResolveAssemblyReference.cache
+D:\TELERIK\TaskTraining\Horror\obj\Debug\Horror.exe
+D:\TELERIK\TaskTraining\Horror\obj\Debug\Horror.pdb

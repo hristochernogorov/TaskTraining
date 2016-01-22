@@ -1,0 +1,6 @@
+D:\TELERIK\TaskTraining\BitsToBits\bin\Debug\BitsToBits.exe.config
+D:\TELERIK\TaskTraining\BitsToBits\obj\Debug\BitsToBits.csprojResolveAssemblyReference.cache
+D:\TELERIK\TaskTraining\BitsToBits\bin\Debug\BitsToBits.exe
+D:\TELERIK\TaskTraining\BitsToBits\bin\Debug\BitsToBits.pdb
+D:\TELERIK\TaskTraining\BitsToBits\obj\Debug\BitsToBits.exe
+D:\TELERIK\TaskTraining\BitsToBits\obj\Debug\BitsToBits.pdb
