@@ -1,1 +1,0 @@
-D:\TELERIK\TaskTraining\exRigs\bin\Debug\exRigs.exe.config

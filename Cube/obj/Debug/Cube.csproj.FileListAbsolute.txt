@@ -1,6 +1,0 @@
-D:\TELERIK\TaskTraining\Cube\bin\Debug\Cube.exe.config
-D:\TELERIK\TaskTraining\Cube\bin\Debug\Cube.exe
-D:\TELERIK\TaskTraining\Cube\bin\Debug\Cube.pdb
-D:\TELERIK\TaskTraining\Cube\obj\Debug\Cube.csprojResolveAssemblyReference.cache
-D:\TELERIK\TaskTraining\Cube\obj\Debug\Cube.exe
-D:\TELERIK\TaskTraining\Cube\obj\Debug\Cube.pdb

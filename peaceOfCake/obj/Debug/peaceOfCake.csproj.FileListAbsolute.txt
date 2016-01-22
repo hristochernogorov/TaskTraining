@@ -1,6 +1,0 @@
-D:\TELERIK\TaskTraining\peaceOfCake\bin\Debug\peaceOfCake.exe.config
-D:\TELERIK\TaskTraining\peaceOfCake\bin\Debug\peaceOfCake.exe
-D:\TELERIK\TaskTraining\peaceOfCake\bin\Debug\peaceOfCake.pdb
-D:\TELERIK\TaskTraining\peaceOfCake\obj\Debug\peaceOfCake.csprojResolveAssemblyReference.cache
-D:\TELERIK\TaskTraining\peaceOfCake\obj\Debug\peaceOfCake.exe
-D:\TELERIK\TaskTraining\peaceOfCake\obj\Debug\peaceOfCake.pdb

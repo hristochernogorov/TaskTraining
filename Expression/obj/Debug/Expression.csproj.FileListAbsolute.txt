@@ -1,6 +1,0 @@
-D:\TELERIK\TaskTraining\Expression\bin\Debug\Expression.exe.config
-D:\TELERIK\TaskTraining\Expression\bin\Debug\Expression.exe
-D:\TELERIK\TaskTraining\Expression\bin\Debug\Expression.pdb
-D:\TELERIK\TaskTraining\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
-D:\TELERIK\TaskTraining\Expression\obj\Debug\Expression.exe
-D:\TELERIK\TaskTraining\Expression\obj\Debug\Expression.pdb

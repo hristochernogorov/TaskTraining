@@ -1,6 +1,0 @@
-D:\TELERIK\TaskTraining\NightmareCodeStreet\bin\Debug\NightmareCodeStreet.exe.config
-D:\TELERIK\TaskTraining\NightmareCodeStreet\bin\Debug\NightmareCodeStreet.exe
-D:\TELERIK\TaskTraining\NightmareCodeStreet\bin\Debug\NightmareCodeStreet.pdb
-D:\TELERIK\TaskTraining\NightmareCodeStreet\obj\Debug\NightmareCodeStreet.csprojResolveAssemblyReference.cache
-D:\TELERIK\TaskTraining\NightmareCodeStreet\obj\Debug\NightmareCodeStreet.exe
-D:\TELERIK\TaskTraining\NightmareCodeStreet\obj\Debug\NightmareCodeStreet.pdb

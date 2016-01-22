@@ -1,6 +1,0 @@
-D:\TELERIK\TaskTraining\ApplesOranges\bin\Debug\ApplesOranges.exe.config
-D:\TELERIK\TaskTraining\ApplesOranges\bin\Debug\ApplesOranges.exe
-D:\TELERIK\TaskTraining\ApplesOranges\bin\Debug\ApplesOranges.pdb
-D:\TELERIK\TaskTraining\ApplesOranges\obj\Debug\ApplesOranges.csprojResolveAssemblyReference.cache
-D:\TELERIK\TaskTraining\ApplesOranges\obj\Debug\ApplesOranges.exe
-D:\TELERIK\TaskTraining\ApplesOranges\obj\Debug\ApplesOranges.pdb

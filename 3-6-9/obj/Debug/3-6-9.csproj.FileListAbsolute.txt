@@ -1,6 +1,0 @@
-D:\TELERIK\TaskTraining\3-6-9\bin\Debug\3-6-9.exe.config
-D:\TELERIK\TaskTraining\3-6-9\bin\Debug\3-6-9.exe
-D:\TELERIK\TaskTraining\3-6-9\bin\Debug\3-6-9.pdb
-D:\TELERIK\TaskTraining\3-6-9\obj\Debug\3-6-9.csprojResolveAssemblyReference.cache
-D:\TELERIK\TaskTraining\3-6-9\obj\Debug\3-6-9.exe
-D:\TELERIK\TaskTraining\3-6-9\obj\Debug\3-6-9.pdb
