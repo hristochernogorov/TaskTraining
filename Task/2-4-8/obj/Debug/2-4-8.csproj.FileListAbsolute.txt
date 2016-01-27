@@ -4,3 +4,6 @@ D:\TELERIK\TaskTraining\2-4-8\bin\Debug\2-4-8.pdb
 D:\TELERIK\TaskTraining\2-4-8\obj\Debug\2-4-8.csprojResolveAssemblyReference.cache
 D:\TELERIK\TaskTraining\2-4-8\obj\Debug\2-4-8.exe
 D:\TELERIK\TaskTraining\2-4-8\obj\Debug\2-4-8.pdb
+D:\TELERIK\TaskTraining\Task\2-4-8\bin\Debug\2-4-8.exe.config
+D:\TELERIK\TaskTraining\Task\2-4-8\obj\Debug\2-4-8.exe
+D:\TELERIK\TaskTraining\Task\2-4-8\obj\Debug\2-4-8.pdb

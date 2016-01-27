@@ -1,1 +1,7 @@
 D:\TELERIK\TaskTraining\exRigs\bin\Debug\exRigs.exe.config
+D:\TELERIK\TaskTraining\Task\exRigs\bin\Debug\exRigs.exe.config
+D:\TELERIK\TaskTraining\Task\exRigs\obj\Debug\exRigs.csprojResolveAssemblyReference.cache
+D:\TELERIK\TaskTraining\Task\exRigs\bin\Debug\exRigs.exe
+D:\TELERIK\TaskTraining\Task\exRigs\bin\Debug\exRigs.pdb
+D:\TELERIK\TaskTraining\Task\exRigs\obj\Debug\exRigs.exe
+D:\TELERIK\TaskTraining\Task\exRigs\obj\Debug\exRigs.pdb
